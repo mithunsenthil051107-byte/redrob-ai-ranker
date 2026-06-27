@@ -192,7 +192,7 @@ python main.py
 The ranked candidates are saved as:
 
 ```text
-output/submission.csv
+output/submission.xlsx
 ```
 
 
