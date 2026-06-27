@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.venv/
+venv/
+
+output/
+.env
+
+.vscode/
+.idea/
+
+# Large dataset files
+data/candidates.jsonl
+data/candidate_schema.json
+data/redrob_signals_doc.docx
+data/submission_spec.docx
