@@ -1,5 +1,21 @@
 # AI Candidate Ranking System
 
+## Team
+
+This project was developed by **Team CipherNova** as part of the **Redrob AI Hiring Challenge**.
+
+### Team Members
+
+* Mithun Senthil
+* KOVARSHINI R V 
+* HARISH C J
+---
+
+## Repository
+
+GitHub Repository:
+https://github.com/mithunsenthil051107-byte/redrob-ai-ranker
+
 An AI-powered candidate ranking system developed as part of the Redrob AI Hiring Challenge.
 
 ## Overview
@@ -110,9 +126,5 @@ output/submission.csv
 * Dashboard for recruiters
 
 ---
-
-## Author
-
-**Mithun Senthil**
 
 GitHub: https://github.com/mithunsenthil051107-byte
